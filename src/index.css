@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root {
+    --orange-low: #EB6440;
+    --white-high: #fff;
+    --white-low: #d9d9d9;
+    --back: #000;
+}
+
+* {
+    font-weight: bold;
+    font-family: "Nunito";
+}
+
